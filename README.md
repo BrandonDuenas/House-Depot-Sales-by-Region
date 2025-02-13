@@ -23,3 +23,12 @@ For the preperation I did the following
 2. Acknowledged missing values but still added them into sales data
 3. Formatted Data to work seemless with Tableau
    
+### Explorataory Data Analysis
+
+Through the Exploratory Data Analysis i looked to answer the following questions:
+
+- What were the top 20 cities that provided the most revenue for the Company?
+- What was the amount of Total Sales made from customers in each city?
+- What was the number of sales made from each city?
+- How many products were Delivered to each city?
+- How many products were installed in customers houses in each city?
