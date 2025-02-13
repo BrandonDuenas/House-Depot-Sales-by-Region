@@ -34,7 +34,7 @@ For the preperation I did the following
 2. Acknowledged missing values but still added them into sales data
 3. Formatted Data to work seemless with Tableau
    
-### Explorataory Data Analysis
+### Exploratory Data Analysis
 
 Through the Exploratory Data Analysis i looked to answer the following questions:
 
@@ -44,7 +44,7 @@ Through the Exploratory Data Analysis i looked to answer the following questions
 - How many products were Delivered to the top 10 cities?
 - How many products were installed in customers houses in the top 10 cities?
 
-### Data Analyis
+### Data Analysis
 
 I used some code to analyse the data in tableau by creating a Calculated Fields
    ``` Tableau
