@@ -28,8 +28,8 @@ For the preperation I did the following
 Through the Exploratory Data Analysis i looked to answer the following questions:
 
 - What were the top 10 cities that provided the most revenue for the Company?
-- What was the amount of Total Sales made from customers in each city?
-- What was the number of sales made from each city?
+- What was the amount of Total Sales made from customers in each of those top 10 cities?
+- What was the number of sales made from each of the top 10 Cities?
 - How many products were Delivered to the top 10 cities?
 - How many products were installed in customers houses in the top 10 cities?
 
@@ -68,16 +68,16 @@ B. The Amount of sales and revenue for each of the Top Cities are:
    10. Roseville $3656 with 8 counted sales
 
 C.The amount of Deliverys and installations for the top 10 revenue cities are: 
-   1. Manteca with 40 deliveries and 
-   2. Stockton with 29 deliveries and 
-   3. Tracy with 15 deliveries and
-   4. Modesto with 11 deliveries and
-   5. Lathrop with 10 deliveries and
-   6. Ceres with 3 deliveries and
-   7. Patterson with 5 deliveries and
-   8. Lodi with 1 delivery and 
-   9. Delhi with 3 deliveries
-   10. Roseville with 2 deliveries and
+   1. Manteca with 40 deliveries and 23 installations
+   2. Stockton with 29 deliveries and 14 installations
+   3. Tracy with 15 deliveries and 9 installations
+   4. Modesto with 11 deliveries and 8 installations
+   5. Lathrop with 10 deliveries and 8 installations
+   6. Ceres with 3 deliveries and 3 installations
+   7. Patterson with 5 deliveries and 2 installations
+   8. Lodi with 1 delivery and 0 installations
+   9. Delhi with 3 deliveries 3 installations
+   10. Roseville with 2 deliveries and 0 installations
 
 
 
