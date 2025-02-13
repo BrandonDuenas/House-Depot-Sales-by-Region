@@ -32,3 +32,21 @@ Through the Exploratory Data Analysis i looked to answer the following questions
 - What was the number of sales made from each city?
 - How many products were Delivered to each city?
 - How many products were installed in customers houses in each city?
+
+### Data Analyis
+
+I used some code to analyse the data in tableau by creating a Calculated Fields
+   ``` Tableau
+COUNT([Sale Price])<= WINDOW_AVG(COUNT([Sale Price]))
+```
+  ``` Tableau
+SUM([Sale Price])<= WINDOW_AVG(SUM([Sale Price]))
+```
+``` Tableau
+COUNT(
+IF [Installation]= "Y" then [order ID] end)
+```
+``` Tableau
+COUNT(
+IF [Delivery] = "Y" then [order ID] END)
+```
