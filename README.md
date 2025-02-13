@@ -1,5 +1,16 @@
 # Regional Sales Analysis
 
+## Table of contents
+   - [Project Overview](#project-overview)
+   - [Data Sources](#data-sources)
+   - [Tools Used](#tools-used)
+   - [Data Preperation](#data-preperation)
+   - [Exploratory Data Analysis](#exploratory-data-analysis)
+   - [Data Analysis](#data-analysis)
+   - [Results](#results)
+   - [Recommendations](#recommendations)
+   - [Limitations](#limitations)
+
 ### Project Overview
 
 This data analysis is ment to provide insights of regional sales for the Company House Depot for the year of 2023. Through the collection and analysis of the sales data, we look to map out, what cities in Califonia have the most sales, deliveries, and Installations of Household appliances. Through the mapped out data we look to identify trends to make data driven recommendations, and to help the comapany understand where their products are selling the best.
