@@ -27,11 +27,11 @@ For the preperation I did the following
 
 Through the Exploratory Data Analysis i looked to answer the following questions:
 
-- What were the top 20 cities that provided the most revenue for the Company?
+- What were the top 10 cities that provided the most revenue for the Company?
 - What was the amount of Total Sales made from customers in each city?
 - What was the number of sales made from each city?
-- How many products were Delivered to each city?
-- How many products were installed in customers houses in each city?
+- How many products were Delivered to the top 10 cities?
+- How many products were installed in customers houses in the top 10 cities?
 
 ### Data Analyis
 
@@ -50,3 +50,23 @@ IF [Installation]= "Y" then [order ID] end)
 COUNT(
 IF [Delivery] = "Y" then [order ID] END)
 ```
+
+### Results
+
+1. The cities included in the top revenue makers from most to least are:  Manteca, Stockton, Tracy, Modesto, Lathrop, Ceres, Patterson, Lodi, Delhi, and Roseville.
+2. The Amount of sales and revenue for each of the Top Cities are:
+      - Manteca $62737 with 91 counted sales
+      - Stockton $35037 with 50 counted sales
+      - Tracy $22304 with 33 counted sales
+      - Modesto $19610 with 25 counted sales
+      - Lathrop $18827 with 25 counted sales
+      - Ceres $6009 with 8 counted sales
+      - Patterson $5929 with 8 counted sales
+      - Lodi $4553 with 5 counted sales
+      - Delhi $4011 with 4 counted sales
+      - Roseville $3656 with 8 counted sales
+3.The amount of Deliverys and installs for the top 10 revenue citiesn are:
+      -
+
+
+
