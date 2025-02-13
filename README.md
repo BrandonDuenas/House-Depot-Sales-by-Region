@@ -11,4 +11,4 @@ Sales Data: House Depot provided me with a box full of files which contained the
 ### Tools Used
 
 - Google Sheets - Data collection and Cleaning and analysis[Download Here](https://github.com/BrandonDuenas/House-Depot-Sales-by-Region/blob/main/House%20Depot%20Regional%20-%20Sheet1.csv)
-- Tableau Public - Creating final report
+- Tableau Public - Creating final report [Download here](https://public.tableau.com/views/HousedepotsalesbyRegion/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
