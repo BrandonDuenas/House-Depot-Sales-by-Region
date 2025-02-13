@@ -54,6 +54,7 @@ IF [Delivery] = "Y" then [order ID] END)
 ### Results
 
 1. The cities included in the top revenue makers from most to least are:  Manteca, Stockton, Tracy, Modesto, Lathrop, Ceres, Patterson, Lodi, Delhi, and Roseville.
+
 2. The Amount of sales and revenue for each of the Top Cities are:
       - Manteca $62737 with 91 counted sales
       - Stockton $35037 with 50 counted sales
@@ -65,8 +66,18 @@ IF [Delivery] = "Y" then [order ID] END)
       - Lodi $4553 with 5 counted sales
       - Delhi $4011 with 4 counted sales
       - Roseville $3656 with 8 counted sales
-3.The amount of Deliverys and installs for the top 10 revenue citiesn are:
-      -
+
+3.The amount of Deliverys and installations for the top 10 revenue citiesn are:
+      - Manteca with 40 deliveries and 
+      - Stockton with 29 deliveries and 
+      - Tracy with 15 deliveries and
+      - Modesto with 11 deliveries and
+      - Lathrop with 10 deliveries and
+      - Ceres with 3 deliveries and
+      - Patterson with 5 deliveries and
+      - Lodi with 1 delivery and 
+      - Delhi with 3 deliveries
+      - Roseville with 2 deliveries and
 
 
 
