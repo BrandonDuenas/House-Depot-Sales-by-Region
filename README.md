@@ -79,5 +79,15 @@ C.The amount of Deliverys and installations for the top 10 revenue cities are:
    9. Delhi with 3 deliveries 3 installations
    10. Roseville with 2 deliveries and 0 installations
 
+### Recommendations
+Based on the analysis done through Regional Mapping I recommend the following:
+
+- Invest more in marketing in cities in the middle and lower ranges of the list
+- Strive to do Installations with every customer you are already delivering equipment to their household, to maximize profits and customer satisfaction.
+
+### Limitations 
+
+I had to remove null values  from the data analysis because not all files had information regarding customers residence. Those null values would have affected the accuracy of my end results.
+
 
 
