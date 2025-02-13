@@ -10,5 +10,16 @@ Sales Data: House Depot provided me with a box full of files which contained the
 
 ### Tools Used
 
-- Google Sheets - Data collection and Cleaning and analysis[Download Here](https://github.com/BrandonDuenas/House-Depot-Sales-by-Region/blob/main/House%20Depot%20Regional%20-%20Sheet1.csv)
-- Tableau Public - Creating final report [Download here](https://public.tableau.com/views/HousedepotsalesbyRegion/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Google Sheets - Data collection and Cleaning and analysis
+   - [Download Here](https://github.com/BrandonDuenas/House-Depot-Sales-by-Region/blob/main/House%20Depot%20Regional%20-%20Sheet1.csv)
+
+- Tableau Public - Data Analysis
+   - [Download here](https://public.tableau.com/views/HousedepotsalesbyRegion/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+### Data Preperation
+
+For the preperation I did the following
+1. Added each file manually from paper to spreadsheet
+2. Acknowledged missing values but still added them into sales data
+3. Formatted Data to work seemless with Tableau
+   
