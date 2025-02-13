@@ -53,31 +53,31 @@ IF [Delivery] = "Y" then [order ID] END)
 
 ### Results
 
-1. The cities included in the top revenue makers from most to least are:  Manteca, Stockton, Tracy, Modesto, Lathrop, Ceres, Patterson, Lodi, Delhi, and Roseville.
+A. The cities included in the top revenue makers from most to least are:  Manteca, Stockton, Tracy, Modesto, Lathrop, Ceres, Patterson, Lodi, Delhi, and Roseville.
 
-2. The Amount of sales and revenue for each of the Top Cities are:
-      - Manteca $62737 with 91 counted sales
-      - Stockton $35037 with 50 counted sales
-      - Tracy $22304 with 33 counted sales
-      - Modesto $19610 with 25 counted sales
-      - Lathrop $18827 with 25 counted sales
-      - Ceres $6009 with 8 counted sales
-      - Patterson $5929 with 8 counted sales
-      - Lodi $4553 with 5 counted sales
-      - Delhi $4011 with 4 counted sales
-      - Roseville $3656 with 8 counted sales
+B. The Amount of sales and revenue for each of the Top Cities are:
+   1. Manteca $62737 with 91 counted sales
+   2. Stockton $35037 with 50 counted sales
+   3. Tracy $22304 with 33 counted sales
+   4. Modesto $19610 with 25 counted sales
+   5. Lathrop $18827 with 25 counted sales
+   6. Ceres $6009 with 8 counted sales
+   7. Patterson $5929 with 8 counted sales
+   8. Lodi $4553 with 5 counted sales
+   9. Delhi $4011 with 4 counted sales
+   10. Roseville $3656 with 8 counted sales
 
-3.The amount of Deliverys and installations for the top 10 revenue citiesn are:
-      - Manteca with 40 deliveries and 
-      - Stockton with 29 deliveries and 
-      - Tracy with 15 deliveries and
-      - Modesto with 11 deliveries and
-      - Lathrop with 10 deliveries and
-      - Ceres with 3 deliveries and
-      - Patterson with 5 deliveries and
-      - Lodi with 1 delivery and 
-      - Delhi with 3 deliveries
-      - Roseville with 2 deliveries and
+C.The amount of Deliverys and installations for the top 10 revenue cities are: 
+   1. Manteca with 40 deliveries and 
+   2. Stockton with 29 deliveries and 
+   3. Tracy with 15 deliveries and
+   4. Modesto with 11 deliveries and
+   5. Lathrop with 10 deliveries and
+   6. Ceres with 3 deliveries and
+   7. Patterson with 5 deliveries and
+   8. Lodi with 1 delivery and 
+   9. Delhi with 3 deliveries
+   10. Roseville with 2 deliveries and
 
 
 
