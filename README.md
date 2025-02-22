@@ -13,14 +13,14 @@
 
 ### Project Overview
 ---
-This project analyzes House Depot's 2023 regional sales data to provide actionable insights.By examining sales, delivery, and installation data for household appliances in California, we identify top-performing cities and uncover regional trends. The resulting visualizations and analysis will inform data-driven recommendations, enabling House Depot to understand its markets and  optimize resource allocation.
+This project analyzes House Depot's 2023 regional sales data to provide actionable insights. By examining sales, delivery, and installation data for household appliances in California, we identify top-performing cities and uncover regional trends. The resulting visualizations and analysis will inform data-driven recommendations, enabling House Depot to understand its markets and  optimize resource allocation.
 
 ![Dashboard 1](https://github.com/user-attachments/assets/eee21768-0e8d-4a27-802f-24a5c673ac27)
 
 
 ### Data Sources
 
-Sales Data: House Depot provided me with a box full of files which contained the information detailing each sale in 2023. I then built a spreadsheet containing all of needed information to preform the regional analysis. 
+Sales Data: Sales record files for 2023 were provided by House Depot. These records were then consolidated into a comprehensive spreadsheet to facilitate the regional analysis.
 
 ### Tools Used
 
@@ -33,8 +33,8 @@ Sales Data: House Depot provided me with a box full of files which contained the
 ### Data Preperation
 
 For the preperation I did the following
-1. Added each file manually from paper to spreadsheet
-2. Acknowledged missing values but still added them into sales data
+1. Sales data from each file was manually entered into a spreadsheet.
+2. Missing values were noted but included in the sales data.
 3. Formatted Data to work seemless with Tableau
    
 ### Exploratory Data Analysis
