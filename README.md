@@ -81,17 +81,17 @@ B. The revenue and sales for each of the top cities are:
    9. Delhi $4,011 (4 sales)
    10. Roseville: $3,656 (8 sales)
 
-C.The amount of Deliverys and installations for the top 10 revenue cities are: 
-   1. Manteca with 40 deliveries and 23 installations
-   2. Stockton with 29 deliveries and 14 installations
-   3. Tracy with 15 deliveries and 9 installations
-   4. Modesto with 11 deliveries and 8 installations
-   5. Lathrop with 10 deliveries and 8 installations
-   6. Ceres with 3 deliveries and 3 installations
-   7. Patterson with 5 deliveries and 2 installations
-   8. Lodi with 1 delivery and 0 installations
-   9. Delhi with 3 deliveries 3 installations
-   10. Roseville with 2 deliveries and 0 installations
+C. The number of deliveries and installations for the top 10 revenue-generating cities are: 
+   1. Manteca: 40 deliveries, 23 installations
+   2. Stockton: 29 deliveries, 14 installations
+   3. Tracy: 15 deliveries, 9 installations
+   4. Modesto: 11 deliveries, 8 installations
+   5. Lathrop: 10 deliveries, 8 installations
+   6. Ceres: 3 deliveries, 3 installations
+   7. Patterson: 5 deliveries, 2 installations
+   8. Lodi: 1 delivery, 0 installations
+   9. Delhi: 3 deliveries, 3 installations
+   10. Roseville: 2 deliveries, 0 installations
 
 ### Recommendations
 Based on the analysis done through Regional Mapping I recommend the following:
