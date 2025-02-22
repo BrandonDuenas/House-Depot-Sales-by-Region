@@ -39,17 +39,17 @@ For the preperation I did the following
    
 ### Exploratory Data Analysis
 
-Through the Exploratory Data Analysis i looked to answer the following questions:
+The exploratory data Analysis aimed to answer the following questions:
 
-- What were the top 10 cities that provided the most revenue for the Company?
-- What was the amount of Total Sales made from customers in each of those top 10 cities?
-- What was the number of sales made from each of the top 10 Cities?
-- How many products were Delivered to the top 10 cities?
-- How many products were installed in customers houses in the top 10 cities?
+- Which 10 cities generated the most revenue for the Company?
+- What was the total revenue from customers in each of these top 10 cities?
+- What was the total number of sales in each of the top 10 Cities?
+- How many products were delivered to each of the top 10 cities?
+- How many products were installed in customers' homes in each the top 10 cities?
 
 ### Data Analysis
 
-I used some code to analyse the data in tableau by creating a Calculated Fields
+ I used calculated fields within Tableau to analyze the data
    ``` Tableau
 COUNT([Sale Price])<= WINDOW_AVG(COUNT([Sale Price]))
 ```
@@ -67,19 +67,19 @@ IF [Delivery] = "Y" then [order ID] END)
 
 ### Results
 
-A. The cities included in the top revenue makers from most to least are:  Manteca, Stockton, Tracy, Modesto, Lathrop, Ceres, Patterson, Lodi, Delhi, and Roseville.
+A. The cities included in the top revenue generators, listed from highest to lowest revenue, are:  Manteca, Stockton, Tracy, Modesto, Lathrop, Ceres, Patterson, Lodi, Delhi, and Roseville.
 
-B. The Amount of sales and revenue for each of the Top Cities are:
-   1. Manteca $62737 with 91 counted sales
-   2. Stockton $35037 with 50 counted sales
-   3. Tracy $22304 with 33 counted sales
-   4. Modesto $19610 with 25 counted sales
-   5. Lathrop $18827 with 25 counted sales
-   6. Ceres $6009 with 8 counted sales
-   7. Patterson $5929 with 8 counted sales
-   8. Lodi $4553 with 5 counted sales
-   9. Delhi $4011 with 4 counted sales
-   10. Roseville $3656 with 8 counted sales
+B. The revenue and sales for each of the top cities are:
+   1. Manteca: $62,737 (91 sales)
+   2. Stockton: $35,037 (50 sales)
+   3. Tracy: $22,304 (33 sales)
+   4. Modesto: $19,610 (25 sales)
+   5. Lathrop: $18,827 (25 sales)
+   6. Ceres: $6,009 (8 sales)
+   7. Patterson: $5,929 with
+   8. Lodi: $4,553 (5 sales)
+   9. Delhi $4,011 (4 sales)
+   10. Roseville: $3,656 (8 sales)
 
 C.The amount of Deliverys and installations for the top 10 revenue cities are: 
    1. Manteca with 40 deliveries and 23 installations
